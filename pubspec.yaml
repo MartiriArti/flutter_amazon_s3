@@ -1,0 +1,21 @@
+name: flutter_amazon_s3
+description: Flutter plugin for work with amazon s3 bucket
+version: 0.0.1
+author: "TonyDarko <tonydarkowork@gmail.com>"
+
+homepage: 'https:url'
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+flutter:
+
+  plugin:
+    androidPackage: dip.dev.studio.flutteramazons3
+    pluginClass: FlutterAmazonS3Plugin
+
